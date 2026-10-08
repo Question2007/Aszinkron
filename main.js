@@ -21,3 +21,4 @@ document.getElementById("megfagy").addEventListener("click", function() {
 document.getElementById("stop").addEventListener("click", () => {
     clearInterval(idoAzonosito);
 })
+
